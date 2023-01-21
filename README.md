@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadfahrii&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadfahrii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadfahrii" alt="muhamadfahrii" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pariraps" target="blank"><img src="https://img.shields.io/twitter/follow/pariraps?logo=twitter&style=for-the-badge" alt="pariraps" /></a> </p>
 
 - 🌱 I’m currently learning **HTML CSS**
